@@ -53,4 +53,4 @@ This final stage involves implementing more sophisticated R-based classification
 ## Author:
 [Kratika Garg]
 [LinkedIn Profile Link](https://www.linkedin.com/in/kratikagarg01/)
-[Medium / Blog Link]()
+[Medium / Blog Link](https://medium.com/@kratikagarg99/from-raw-data-to-dollars-my-end-to-end-project-on-credit-risk-prediction-a9c85c8bfa32)
